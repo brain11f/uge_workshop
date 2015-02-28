@@ -8,7 +8,7 @@ clear = clear UI
 man man = manual
 
 history command
-
+cxzzcx
 ~ cd
 
 
