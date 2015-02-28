@@ -29,7 +29,7 @@ echo $EDITOR
 
 brew info fish
 brew doctor
-
+ewfoiwoi
 ls -G
 
 man ls
