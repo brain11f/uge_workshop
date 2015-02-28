@@ -1,0 +1,42 @@
+mkdir = make folder in home directory
+
+ls = folder contents
+cd = Go home
+history | sort | less
+clear = clear UI
+
+man man = manual
+
+history command
+
+~ cd
+
+
+../ = up one directory
+
+subl -w = sublime text short cut
+
+
+ls -lr
+ls -lt
+ls -l -more info
+
+pwd
+git --version
+witch uname
+echo $PATH
+echo $EDITOR
+
+brew info fish
+brew doctor
+
+ls -G
+
+man ls
+$ man ls
+$ man 1s
+Documents
+man
+$ cd /Users/brianfinck
+$ cd
+$ pwd
